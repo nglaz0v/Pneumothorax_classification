@@ -1,0 +1,2 @@
+# Pneumothorax_classification
+Классификация пневмоторакса
